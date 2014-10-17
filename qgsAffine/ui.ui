@@ -390,7 +390,7 @@
     </rect>
    </property>
    <property name="text">
-    <string/>
+    <string>timeLabel</string>
    </property>
   </widget>
  </widget>
